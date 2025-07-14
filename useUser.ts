@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+mport { useState, useEffect, useCallback } from 'react';
 import { User, HistoryItem, AnalysisType, SeoResult } from '../types';
 import { FREE_TIER_REQUEST_LIMIT } from '../constants';
 

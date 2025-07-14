@@ -1,4 +1,4 @@
-import { Lang } from './types';
+import { Lang } from './types.js';
 
 export const FREE_TIER_REQUEST_LIMIT = 10;
 export const PREMIUM_PRICE = '5 €';
